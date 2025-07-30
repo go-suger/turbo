@@ -1,4 +1,4 @@
-module git.dlx36.com/go-boost/boost
+module github.com/go-suger/turbo
 
 go 1.24
 
